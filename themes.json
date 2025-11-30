@@ -264,6 +264,9 @@
     "Dracula": {
       "url": "https://theme-park.dev/css/theme-options/dracula.css?sha=4e7c87d2063bc2c5a63e05579cd6bea6"
     },
+    "Elegantui": {
+      "url": "https://theme-park.dev/css/community-theme-options/elegantui.css?sha=b3a0a064ef7767a33bea7d17473dee49"
+    },
     "Hotline": {
       "url": "https://theme-park.dev/css/theme-options/hotline.css?sha=6e3ddecbe9a1ccd2f1faaf433786677f"
     },
@@ -784,6 +787,9 @@
     },
     "Catppuccin-mocha": {
       "url": "https://theme-park.dev/css/community-theme-options/catppuccin-mocha.css?sha=3a94f850384195bd9d75d270eed80581"
+    },
+    "Elegantui": {
+      "url": "https://theme-park.dev/css/community-theme-options/elegantui.css?sha=b3a0a064ef7767a33bea7d17473dee49"
     },
     "Hotline-old": {
       "url": "https://theme-park.dev/css/community-theme-options/hotline-old.css?sha=40dcf9071afdaf83f52a1be9eac4c119"
